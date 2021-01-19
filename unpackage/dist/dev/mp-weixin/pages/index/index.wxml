@@ -1,0 +1,1 @@
+<view class="content"><button type="primary" data-event-opts="{{[['tap',[['btnTakePhoto',['$event']]]]]}}" bindtap="__e">从相册或者拍照获得照片</button><image src="{{imgSrc}}" mode="widthFix"></image></view>
